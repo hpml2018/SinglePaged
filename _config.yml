@@ -34,6 +34,8 @@ colors:
   turquoise: '#0fbfcf'
   red:	     '#e42f43'
   grey:	     '#636363'
+  bleu:      '#00209F'
+  rouge:     '#F42A41'
                             
 kramdown:
   auto_ids:  false
