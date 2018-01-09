@@ -7,8 +7,8 @@ fa-icon: group
 ---
 
 ### Organizing Committee
-Eduardo Rocha Rodrigues, IBM Research
-Jairo Panetta, Instituto Tecnologico de Aeronautica
+- Eduardo Rocha Rodrigues, IBM Research
+- Jairo Panetta, Instituto Tecnologico de Aeronautica
 
 ### Program Chairs
 TBA
