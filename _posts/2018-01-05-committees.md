@@ -12,13 +12,13 @@ fa-icon: group
 - Bruno Raffin, INRIA
 
 ### Program Committee
-Aline Paes, UFF
-Edmilson Morais, IBM
-Emmanuel Jeannot, Inria
-Fabio Cozman, USP
-Gina Maira Barbosa de Oliveira, UFU
-Guillaume Aupy, Inria
-Olivier Beaumont, Inria
-Olivier Coulaud, Inria
-Pedro Mario Cruz, Nvidia
+- Aline Paes, UFF
+- Edmilson Morais, IBM
+- Emmanuel Jeannot, Inria
+- Fabio Cozman, USP
+- Gina Maira Barbosa de Oliveira, UFU
+- Guillaume Aupy, Inria
+- Olivier Beaumont, Inria
+- Olivier Coulaud, Inria
+- Pedro Mario Cruz, Nvidia
 
