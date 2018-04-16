@@ -11,8 +11,14 @@ fa-icon: group
 - Jairo Panetta, Instituto Tecnologico de Aeronautica
 - Bruno Raffin, INRIA
 
-### Program Chairs
-TBA
-
 ### Program Committee
-TBA
+Aline Paes, UFF
+Edmilson Morais, IBM
+Emmanuel Jeannot, Inria
+Fabio Cozman, USP
+Gina Maira Barbosa de Oliveira, UFU
+Guillaume Aupy, Inria
+Olivier Beaumont, Inria
+Olivier Coulaud, Inria
+Pedro Mario Cruz, Nvidia
+
