@@ -18,6 +18,7 @@ fa-icon: group
 - Fabio Cozman, USP
 - Gina Maira Barbosa de Oliveira, UFU
 - Guillaume Aupy, INRIA
+- Mauricio Araya, Shell
 - Olivier Beaumont, INRIA
 - Olivier Coulaud, INRIA
 - Pedro Mario Cruz, Nvidia
