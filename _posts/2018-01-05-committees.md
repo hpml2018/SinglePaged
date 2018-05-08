@@ -13,7 +13,7 @@ fa-icon: group
 
 ### Program Committee
 - Aline Paes, UFF
-- Edmilson Morais, IBM
+- Edmilson Morais, IBM Research
 - Emmanuel Jeannot, INRIA
 - Fabio Cozman, USP
 - Gina Maira Barbosa de Oliveira, UFU
