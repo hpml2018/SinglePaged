@@ -13,6 +13,7 @@ fa-icon: group
 
 ### Program Committee
 - Aline Paes, UFF
+- Dingwen (Devin) Tao, UCR, UA
 - Edmilson Morais, IBM Research
 - Emmanuel Jeannot, INRIA
 - Fabio Cozman, USP
@@ -22,4 +23,3 @@ fa-icon: group
 - Olivier Beaumont, INRIA
 - Olivier Coulaud, INRIA
 - Pedro Mario Cruz, Nvidia
-
