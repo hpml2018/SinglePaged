@@ -17,3 +17,4 @@ Submissions must be in English, limited to 8 pages in the IEEE conference format
 
 All submissions should be made electronically through the Easychair website ( <a href="https://easychair.org/conferences/?conf=hpml2018">https://easychair.org/conferences/?conf=hpml2018</a> ). 
 
+At least one author must register for the main conference - <a href="http://avalon.ens-lyon.fr/sbac-pad/">IEEE SBAC-PAD 2018</a> - and attend the workshop to present their paper. Authors who do not present their paper, or arrange for a knowledgeable colleague to present it, will not have their paper published.
