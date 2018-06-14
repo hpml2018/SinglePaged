@@ -7,7 +7,7 @@ fa-icon: group
 ---
 
 ### Organizing Committee
-- Eduardo Rocha Rodrigues, IBM Research
+- Eduardo Rocha Rodrigues, IBM Research - edrodri (at) br (dot) ibm (dot) com
 - Jairo Panetta, Instituto Tecnologico de Aeronautica
 - Bruno Raffin, INRIA
 
