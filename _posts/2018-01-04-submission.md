@@ -9,7 +9,7 @@ icon-title: true
 
 ### Submission
 
-We invite authors to submit original work to HPML. Proceedings will be published in IEEE Xplore. **Furthermore, a number of selected papers will be invited to a special issue of the Journal of Parallel and Distributed Computing (JPDC) - Elsevier.**
+We invite authors to submit original work to HPML. All papers will be peer reviewed and accepted papers will be published in IEEE Xplore. **Furthermore, a number of selected papers will be invited to a special issue of the Journal of Parallel and Distributed Computing (JPDC) - Elsevier.**
 
 <a href="https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing/call-for-papers/special-issue-advances-parallel-high-performance-computing">ELSEVIER JPDC - Special Issue on Advances on Parallel and High Performance Computing for AI Applications</a>
 
