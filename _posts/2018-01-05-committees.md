@@ -1,7 +1,7 @@
 ---
 title: "Committees"
-bg: white
-color: black
+bg: blue
+color: white
 style: left
 fa-icon: group
 ---
