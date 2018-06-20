@@ -19,6 +19,7 @@ fa-icon: group
 - Fabio Cozman, USP
 - Gina Maira Barbosa de Oliveira, UFU
 - Guillaume Aupy, INRIA
+- Lucas Mello Schnorr, UFRGS
 - Mauricio Araya, Shell
 - Olivier Beaumont, INRIA
 - Olivier Coulaud, INRIA
