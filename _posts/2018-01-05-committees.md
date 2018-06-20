@@ -19,8 +19,10 @@ fa-icon: group
 - Fabio Cozman, USP
 - Gina Maira Barbosa de Oliveira, UFU
 - Guillaume Aupy, INRIA
+- Haroldo Fraga de Campos Velho, INPE
 - Lucas Mello Schnorr, UFRGS
 - Mauricio Araya, Shell
+- Marco Netto, IBM Research
 - Olivier Beaumont, INRIA
 - Olivier Coulaud, INRIA
 - Pedro Mario Cruz, Nvidia
