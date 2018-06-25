@@ -22,8 +22,8 @@ fa-icon: group
 - Guillaume Aupy, INRIA
 - Haroldo Fraga de Campos Velho, INPE
 - Lucas Mello Schnorr, UFRGS
-- Mauricio Araya, Shell
 - Marco Netto, IBM Research
+- Mauricio Araya, Shell
 - Olivier Beaumont, INRIA
 - Olivier Coulaud, INRIA
 - Pedro Mario Cruz, Nvidia
