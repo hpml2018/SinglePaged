@@ -12,6 +12,7 @@ fa-icon: group
 - Bruno Raffin, INRIA
 
 ### Program Committee
+- Abhishek Gupta, Schlumberger
 - Aline Paes, UFF
 - Dingwen (Devin) Tao, UCR, UA
 - Edmilson Morais, IBM Research
