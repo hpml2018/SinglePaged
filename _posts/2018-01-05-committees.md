@@ -14,6 +14,7 @@ fa-icon: group
 ### Program Committee
 - Abhishek Gupta, Schlumberger
 - Aline Paes, UFF
+- Andrea Schwertner Charão, UFSM
 - Dingwen (Devin) Tao, UCR, UA
 - Edmilson Morais, IBM Research
 - Emmanuel Jeannot, INRIA
