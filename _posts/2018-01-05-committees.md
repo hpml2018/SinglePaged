@@ -22,6 +22,7 @@ fa-icon: group
 - Gina Maira Barbosa de Oliveira, UFU
 - Guillaume Aupy, INRIA
 - Haroldo Fraga de Campos Velho, INPE
+- Leonardo Bautista Gomez, BSC
 - Lucas Mello Schnorr, UFRGS
 - Marco Netto, IBM Research
 - Mauricio Araya, Shell
