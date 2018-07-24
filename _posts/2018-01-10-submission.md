@@ -1,7 +1,7 @@
 ---
 title: "Submission"
-bg: white
-color: black
+bg: bleu
+color: white
 style: left
 fa-icon: check
 icon-title: true
