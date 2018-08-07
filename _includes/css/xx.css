@@ -1,0 +1,39 @@
+#xxbold {
+    margin: 0px; 
+    font-weight: bold;
+}
+
+#xxit {
+    margin: 0px;
+    font-style: italic;
+}
+
+#xxtable {
+    border-collapse: separate;
+    font-size: 14px;
+    line-height: 24px;
+    margin: 30px auto;
+    text-align: left;
+    width: 900px;
+} 
+
+#xxtd {
+    border-right: 1px;
+    border-left: 1px;
+    border-top: 1px;
+    border-bottom: 1px;
+    padding: 10px 15px;
+    position: relative;
+}
+
+#xxhead1 {
+    font-size: 20px;
+}
+
+#xxhead2 {
+    font-size: 16px;
+}
+
+#xxtr {
+}
+
