@@ -22,16 +22,20 @@
     border-left: 1px;
     border-top: 1px;
     border-bottom: 1px;
-    padding: 5px 5px;
+    padding: 8px 8px;
     position: relative;
 }
 
 #xxhead1 {
-    font-size: 20px;
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0px 0px;
 }
 
 #xxhead2 {
-    font-size: 16px;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0px 0px;
 }
 
 #xxtr {
