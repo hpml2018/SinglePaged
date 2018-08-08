@@ -11,10 +11,10 @@
 #xxtable {
     border-collapse: separate;
     font-size: 14px;
-    line-height: 20px;
-    margin: 30px auto;
+    line-height: 130%;
+    margin: 0px auto;
     text-align: left;
-    width: 1000px;
+    width: auto;
 } 
 
 #xxtd {
